@@ -79,7 +79,7 @@ console.log(`Initializing environment for ${peterson.name}... 🚀`);
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,bash,cpp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,bash&theme=dark" />
 </p>
 
 ### ⚡ Frameworks & Libraries
@@ -90,12 +90,12 @@ console.log(`Initializing environment for ${peterson.name}... 🚀`);
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,firebase,sqlite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,firebase,sqlite&theme=dark" />
 </p>
 
 ### 🔧 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,vim,linux,nginx,grafana&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,vim,linux,nginx&theme=dark" />
 </p>
 
 </div>
@@ -104,13 +104,11 @@ console.log(`Initializing environment for ${peterson.name}... 🚀`);
 <summary>🔍 <strong>Detailed Technical Proficiency</strong></summary>
 <br>
 
-<div align="center">
 | Category | Technologies | Proficiency |
 |----------|-------------|-------------|
 | **Backend Development** | Node.js • Express.js | ⭐⭐⭐⭐⭐ |
 | **Frontend Development** | React • Next.js • JavaScript • TypeScript • Tailwind CSS | ⭐⭐⭐⭐ |
-| **Databases** | MongoDB • PostgreSQL • MySQL • Redis • Firebase Firestore | ⭐⭐⭐⭐⭐ |
-</div>
+| **Databases** | PostgreSQL • MySQL • MongoDB | ⭐⭐⭐⭐⭐ |
 
 </details>
 
@@ -139,7 +137,7 @@ console.log(`Initializing environment for ${peterson.name}... 🚀`);
   
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=30&height=3"/>
 
-### 🚀 "Innovation distinguishes between a leader and a follower." 🚀
+### 🚀 "Problem Solving gives me goosebumps💫️" 🚀
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=30&height=3"/>
 
