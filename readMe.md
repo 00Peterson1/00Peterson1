@@ -100,7 +100,7 @@ console.log(`Initializing environment for ${peterson.name}... 🚀`);
 
 </div>
 
-<details>
+<div>
 <div>🔍 <strong>Detailed Technical Proficiency</strong></div>
 
 | Category | Technologies | Proficiency |
@@ -109,7 +109,7 @@ console.log(`Initializing environment for ${peterson.name}... 🚀`);
 | **Frontend Development** | React • Next.js • JavaScript • TypeScript • Tailwind CSS | ⭐⭐⭐⭐ |
 | **Databases** | MongoDB • PostgreSQL • MySQL • Redis • Firebase Firestore | ⭐⭐⭐⭐⭐ |
 
-</details>
+</div>
 
 -------------------------------------------------------------------------------------
 
