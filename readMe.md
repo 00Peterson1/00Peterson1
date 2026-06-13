@@ -103,13 +103,13 @@ console.log(`Initializing environment for ${peterson.name}... 🚀`);
 <details>
 <summary>🔍 <strong>Detailed Technical Proficiency</strong></summary>
 
-<div align="center">
+
 | Category | Technologies | Proficiency |
 |----------|-------------|-------------|
 | **Backend Development** | Node.js • Express.js | ⭐⭐⭐⭐⭐ |
 | **Frontend Development** | React • Next.js • JavaScript • TypeScript • Tailwind CSS | ⭐⭐⭐⭐ |
 | **Databases** | MongoDB • PostgreSQL • MySQL • Redis • Firebase Firestore | ⭐⭐⭐⭐⭐ |
-</div>
+
 </details>
 
 -------------------------------------------------------------------------------------
