@@ -102,7 +102,7 @@ console.log(`Initializing environment for ${peterson.name}... 🚀`);
 
 <details>
 <summary>🔍 <strong>Detailed Technical Proficiency</strong></summary>
-<br>
+
 <div align="center">
 | Category | Technologies | Proficiency |
 |----------|-------------|-------------|
@@ -131,7 +131,7 @@ console.log(`Initializing environment for ${peterson.name}... 🚀`);
 
 </div>
 
----
+--------------------------------------------------------------------------------------------------
 
 <div align="center">
   
