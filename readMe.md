@@ -101,7 +101,7 @@ console.log(`Initializing environment for ${peterson.name}... 🚀`);
 </div>
 
 <details>
-<p>🔍 <strong>Detailed Technical Proficiency</strong></p>
+<summary>🔍 <strong>Detailed Technical Proficiency</strong></summary>
 | Category | Technologies | Proficiency |
 |----------|-------------|-------------|
 | **Backend Development** | Node.js • Express.js | ⭐⭐⭐⭐⭐ |
