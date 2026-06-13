@@ -112,7 +112,7 @@ console.log(`Initializing environment for ${peterson.name}... 🚀`);
 </div>
 </details>
 
----
+-------------------------------------------------------------------------------------
 
 <p align="center">
   <a href="mailto:hello@petersonlabs.dev">
