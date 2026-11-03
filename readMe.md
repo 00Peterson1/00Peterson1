@@ -31,7 +31,7 @@
 ## 👨‍💻 DEVELOPER PROFILE
 
 ```typescript
-interface Software Engineer Engineer {
+interface Software Engineer {
   name: string;
   location: string;
   role: string;
@@ -41,9 +41,9 @@ interface Software Engineer Engineer {
   philosophy: string;
 }
 
-const Peterson: Engineer = {
+const Peterson: Software Engineer = {
   name: "Peterson Amos",
-  location: "Kenya",
+  location: "Nairobi, Kenya",
   role: "Software Engineer | Backend Systems",
   company: "PetersonLabs.dev",
   
