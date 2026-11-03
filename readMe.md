@@ -31,7 +31,7 @@
 ## 👨‍💻 DEVELOPER PROFILE
 
 ```typescript
-interface Software Engineer {
+interface softwareEngineer {
   name: string;
   location: string;
   role: string;
@@ -41,15 +41,15 @@ interface Software Engineer {
   philosophy: string;
 }
 
-const Peterson: Software Engineer = {
+const me: softwareEngineer = {
   name: "Peterson Amos",
   location: "Nairobi, Kenya",
-  role: "Software Engineer | Backend Systems",
+  role: "Software Engineer | Backend ",
   company: "PetersonLabs.dev",
   
   skills: [
     "☁️  Distributed Systems Architecture",
-    "🐳  Systems APIs & OS Internals",
+    "🐳  Systems APIs & OS ",
     "📱  Backend Systems & Security Engineering",
     "🏗️  Fintech Infrastructure",
     "🤖  AI/ML Integration",
@@ -66,7 +66,7 @@ const Peterson: Software Engineer = {
   philosophy: "Root-level understanding of everything I touch."
 };
 
-console.log(`Initializing environment for ${peterson.name}... 🚀`);
+console.log(`Initializing environment for ${me.name}... 🚀`);
 ```
 
 <br clear="right"/>
@@ -79,7 +79,7 @@ console.log(`Initializing environment for ${peterson.name}... 🚀`);
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,bash,cpp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,bash&theme=dark" />
 </p>
 
 ### ⚡ Frameworks & Libraries
@@ -90,12 +90,12 @@ console.log(`Initializing environment for ${peterson.name}... 🚀`);
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,firebase,sqlite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,sqlite&theme=dark" />
 </p>
 
 ### 🔧 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,vim,linux,nginx,grafana&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,vim,linux&theme=dark" />
 </p>
 
 </div>
@@ -107,7 +107,7 @@ console.log(`Initializing environment for ${peterson.name}... 🚀`);
 |----------|-------------|-------------|
 | **Backend Development** | Node.js • Express.js | ⭐⭐⭐⭐⭐ |
 | **Frontend Development** | React • Next.js • JavaScript • TypeScript • Tailwind CSS | ⭐⭐⭐⭐ |
-| **Databases** | MongoDB • PostgreSQL • MySQL • Redis • Firebase Firestore | ⭐⭐⭐⭐⭐ |
+| **Databases** | MongoDB • PostgreSQL • MySQL  | ⭐⭐⭐⭐⭐ |
 
 </div>
 
